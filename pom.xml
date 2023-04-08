@@ -98,6 +98,7 @@
 					<path>/CounterWebApp</path>
 				</configuration>
 			</plugin>
+			<!-- Set JDK Compiler Level2-->
 		</plugins>
 	</build>
 </project>
